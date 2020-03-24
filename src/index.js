@@ -8,4 +8,4 @@ import {BrowserRouter} from 'react-router-dom';
 
 
 
-ReactDOM.render(<BrowserRouter basename={process.env.PUBLIC_URL}><Main/></BrowserRouter>, document.getElementById('root'));
+ReactDOM.render(<BrowserRouter><Main/></BrowserRouter>, document.getElementById('root'));
