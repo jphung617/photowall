@@ -73,3 +73,7 @@ class Main extends Component {
 }
 
 export default Main
+
+
+// npm run build - pre deployment
+// npm run deploy - deploy changes
